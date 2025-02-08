@@ -1,0 +1,9 @@
+!SpriteFont
+Id: 26d9af9f-3aeb-428c-b7e0-b28245da275b
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+FontSource: !SystemFontProvider
+    FontName: Segoe UI
+    Style: Regular
+FontType: !RuntimeRasterizedSpriteFontType
+    Size: 24.0

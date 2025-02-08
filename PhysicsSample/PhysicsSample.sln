@@ -1,0 +1,11 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsSample.Windows", "PhysicsSample.Windows\PhysicsSample.Windows.csproj", "{39AA7F61-5049-4BE2-8CC5-A95067D78F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsSample.Game", "PhysicsSample.Game\PhysicsSample.Game.csproj", "{E92C3A7F-8EDF-4682-B2E4-78B87DDEEB3C}"
+EndProject
+Global
+EndGlobal

@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAssetsProject.Windows", "SampleAssetsProject.Windows\SampleAssetsProject.Windows.csproj", "{748B48B3-D5CA-44B3-9833-2E0AAD630E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAssetsProject", "SampleAssetsProject\SampleAssetsProject.csproj", "{6FB22B4E-74D2-45D7-A715-85E809455193}"
+EndProject
+Global
+EndGlobal
